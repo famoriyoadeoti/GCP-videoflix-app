@@ -1,2 +1,1 @@
-# GCP-videoflix-app
-GCP-videoflix-app
+# 👨🏼‍💻Deploying a Netflix Type of App on GCP👨🏼‍💻
